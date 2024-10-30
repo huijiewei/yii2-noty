@@ -42,8 +42,8 @@ $.noty.themes.bootstrap = {
         }
 
         this.$message.css({
-            fontSize: '13px',
-            lineHeight: '16px',
+            fontSize: '16px',
+            lineHeight: '20px',
             textAlign: 'center',
             padding: '8px 10px 9px',
             width: 'auto',
